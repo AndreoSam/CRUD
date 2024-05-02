@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "Andreo",
+      "lname": "Samaddar",
+      "address": "Barrackpore",
+      "pincode": 700121
+    }
+  ]
+}
